@@ -38,5 +38,5 @@ My career in technology spans more than three decades, with a focus on IT suppor
 *T. Rowe Price* | Sep 2017 – Jun 2026
 
 **Founder & Director, Creative Consulting Services**<br> 
-*Integrated Desktop Solutions, Inc.** | Jan 1998 – Present 
+*Integrated Desktop Solutions, Inc.* | Jan 1998 – Present 
 
