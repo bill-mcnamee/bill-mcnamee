@@ -12,7 +12,7 @@ This GitHub profile serves as a place of record for that work: professional, tec
 
 ## What I Do
 
-#### Technology & Support
+### Technology & Support
 
 My career spans more than three decades in IT support, infrastructure, systems, and technology leadership. Much of that work has centered on helping people use technology effectively, building and supporting the environments they depend on, and connecting technical solutions with real-world business needs.
 
