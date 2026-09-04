@@ -72,7 +72,7 @@ Photography, writing, reviews, and creative work.
 
 **LinkedIn**  
 Professional profile and career presence.  
-[Bill McNamee](https://www.linkedin.com/in/billmcnamee/))
+[Bill McNamee](https://www.linkedin.com/in/billmcnamee/)
 
 **The Art of the Create on Reddit**  
 Community and discussion around photography, writing, technology, and the creative process.  
