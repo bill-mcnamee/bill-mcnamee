@@ -35,5 +35,4 @@ My career in technology spans more than three decades, with a focus on IT suppor
 ### Experience
 
 **T. Rowe Price**
-
 *Apple Infrastructure and Standards Analyst*
