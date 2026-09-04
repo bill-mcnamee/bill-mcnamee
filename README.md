@@ -27,3 +27,9 @@ Through Kerrsplat Publishing, I develop and publish independent creative project
 ### AI & Creative Workflows
 
 I use assistive and generative AI as practical tools within professional and creative workflows. My interests include how AI can support research, writing, editing, ideation, technical work, publishing, and other creative processes while keeping human judgment and authorship at the center.
+
+## Professional Record
+
+My career in technology spans more than three decades, with a focus on IT support, technology leadership, infrastructure, digital media, and the systems and workflows people depend on.
+
+### Experience
