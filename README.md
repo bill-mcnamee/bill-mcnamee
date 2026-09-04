@@ -33,3 +33,6 @@ I use assistive and generative AI as practical tools within professional and cre
 My career in technology spans more than three decades, with a focus on IT support, technology leadership, infrastructure, digital media, and the systems and workflows people depend on.
 
 ### Experience
+
+**T. Rowe Price**. 
+*Apple Infrastructure and Standards Analyst*
