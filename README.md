@@ -67,11 +67,14 @@ A complete professional CV, including detailed experience, accomplishments, tech
 ## Elsewhere
 
 **Bill McNamee | The Art of the Create**  
-Photography, writing, reviews, and creative work at [BillMcNamee.com](https://BillMcNamee.com)
+Photography, writing, reviews, and creative work.  
+[BillMcNamee.com](https://BillMcNamee.com)
 
 **LinkedIn**  
-Professional profile and career presence.
+Professional profile and career presence.  
+[Bill McNamee](https://www.linkedin.com/in/billmcnamee/))
 
 **The Art of the Create on Reddit**  
-Community and discussion around photography, writing, technology, and the creative process.
+Community and discussion around photography, writing, technology, and the creative process.  
+[r/TheArtoftheCreate](https://www.reddit.com/r/TheArtoftheCreate/)
 
