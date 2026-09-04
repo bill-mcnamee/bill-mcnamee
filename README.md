@@ -58,7 +58,11 @@ My career in technology spans more than three decades, with a focus on IT suppor
 **Office Automation Manager**<br>
 *Finkelstein's of Towson* | May 1987 – Jun 1990
 
+### Curriculum Vitae
 
+A complete professional CV, including detailed experience, accomplishments, technical skills, education, and professional development, is available as a PDF.
+
+[View / Download CV](cv/bill-mcnamee-cv.pdf)
 
 
 
