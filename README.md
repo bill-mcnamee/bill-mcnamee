@@ -34,8 +34,9 @@ My career in technology spans more than three decades, with a focus on IT suppor
 
 ### Experience
 
-**T. Rowe Price**<br>
-*Apple Infrastructure and Standards Analyst* | Sep 2017 - Jun 2026
+**Apple Infrastructure and Standards Analyst**<br>
+*T. Rowe Price* | Sep 2017 – Jun 2026
 
-**Integrated Desktop Solutions, Inc.**<br>
-*Founder & Director, Creative Consulting Services* | Jan 1998 - Present
+**Founder & Director, Creative Consulting Services**<br> 
+*Integrated Desktop Solutions, Inc.** | Jan 1998 – Present 
+
