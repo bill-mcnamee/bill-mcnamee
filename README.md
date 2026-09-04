@@ -64,5 +64,14 @@ A complete professional CV, including detailed experience, accomplishments, tech
 
 [View / Download CV](cv/bill-mcnamee-cv.pdf)
 
+## Elsewhere
 
+**Bill McNamee | The Art of the Create**  
+Photography, writing, reviews, and creative work at [BillMcNamee.com](https://BillMcNamee.com)
+
+**LinkedIn**  
+Professional profile and career presence.
+
+**The Art of the Create on Reddit**  
+Community and discussion around photography, writing, technology, and the creative process.
 
