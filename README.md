@@ -35,28 +35,28 @@ My career in technology spans more than three decades, with a focus on IT suppor
 ### Experience
 
 **Apple Infrastructure and Standards Analyst**<br>
-*T. Rowe Price* | Sep 2017 – Jun 2026
+*T. Rowe Price* | Sep 2017 – Jun 2026 | Hybrid
 
 **Founder & Director, Creative Consulting Services**<br> 
-*Integrated Desktop Solutions, Inc.* | Jan 1998 – Present
+*Integrated Desktop Solutions, Inc.* | Jan 1998 – Present | Hybrid
 
 **Senior Technical Analyst**<br>
-*Apple, Inc.* | Dec 2010 – Aug 2017
+*Apple, Inc.* | Dec 2010 – Aug 2017 | On-Site
 
 **Manager, Digital Assets and Support**<br>
-*Sweetheart Cup Company / Solo Cup Company* | Apr 1996 – Sep 2004
+*Sweetheart Cup Company / Solo Cup Company* | Apr 1996 – Sep 2004 | Hybrid
 
 **Information Technology Coordinator**<br>
-*R. Christopher Goodwin & Associates, Inc.* | Sep 1994 – Apr 1996
+*R. Christopher Goodwin & Associates, Inc.* | Sep 1994 – Apr 1996 | On-Site
 
 **Manager, Technical Support**<br>
-*Skills Bank Corporation* | Feb 1993 – Sep 1994
+*Skills Bank Corporation* | Feb 1993 – Sep 1994 | On-Site
 
 **Manager, Information Technology**<br>
-*Complete Archaeological Service Associates* | Jun 1990 – Feb 1993
+*Complete Archaeological Service Associates* | Jun 1990 – Feb 1993 | On-Site
 
 **Office Automation Manager**<br>
-*Finkelstein's of Towson* | May 1987 – Jun 1990
+*Finkelstein's of Towson* | May 1987 – Jun 1990 | On-Site
 
 ### Curriculum Vitae
 
