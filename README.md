@@ -40,7 +40,7 @@ My career in technology spans more than three decades, with a focus on IT suppor
 **Founder & Director, Creative Consulting Services**<br> 
 *Integrated Desktop Solutions, Inc.* | Jan 1998 – Present
 
-**Senior Technical Analyst:<br>
+**Senior Technical Analyst**<br>
 *Apple, Inc.* | Dec 2010 – Aug 2017
 
 **Manager, Digital Assets and Support**<br>
